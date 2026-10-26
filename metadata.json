@@ -1,0 +1,6 @@
+{
+  "name": "ZOIR AI — The Ultimate All-in-One AI Platform",
+  "description": "Intelligent conversational AI, global library with ONLY Reading mode, English Academy with IELTS Band 9.0 prep, creative image & video studio, 100+ languages, and deep personalization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
